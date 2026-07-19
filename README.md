@@ -40,7 +40,7 @@ python app.py
 Then open your browser and go to http://127.0.0.1:5000
 
 ## Project Structure
-app.py — Main Flask application
-templates/index.html — Frontend interface
-.gitignore — Excludes .env and cache files
-README.md — Project documentation
+app.py - Main Flask application
+templates/index.html - Frontend interface
+.gitignore - Excludes .env and cache files
+README.md - Project documentation
